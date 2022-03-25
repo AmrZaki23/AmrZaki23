@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AmrZaki23
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning basic computer science principles
-- 💞️ I’m looking to collaborate on Learning cyber security
+- 👋 Hi, I’m Amr Zaki
+- 👀 I’m interested in Computer security.
+- 🌱 I’m currently learning penetration testing.
 - 📫 How to reach me https://www.facebook.com/AmrZaki23/
 
 <!---
